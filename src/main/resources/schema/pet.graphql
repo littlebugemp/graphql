@@ -1,3 +1,4 @@
+"""enum for foodtype"""
 enum FoodType{
     OMNIVORE, HERBIVORE, CARNIVORE
 }
